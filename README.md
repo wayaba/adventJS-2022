@@ -4,13 +4,13 @@ Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/
 
 ![Captura](https://user-images.githubusercontent.com/37515166/204515493-fb1ba60e-bbc0-4623-9f72-293eeac4a786.PNG)
 
-<img src="https://user-images.githubusercontent.com/37515166/204556732-51f4f61b-1372-4ee5-b0c3-4e629f94a770.png" width="50" height="50" />
+
 
 ## Retos :computer:
 
 | Día | Reto                                                                               | Código                       |
 | --- | ---------------------------------------------------------------------------------- | ---------------------------- |
-| 1   | [---](https://adventjs.dev/es/challenges/2022/1)                  | [solución](./src/challenge01.js) |
+| 1 <img src="https://user-images.githubusercontent.com/37515166/204556732-51f4f61b-1372-4ee5-b0c3-4e629f94a770.png" width="50" height="50" />   | [---](https://adventjs.dev/es/challenges/2022/1)                  | [solución](./src/challenge01.js) |
 | 2   | [----](https://adventjs.dev/challenges/02)         | [solución](./src/challenge02.js) |
 | 3   | [----](https://adventjs.dev/challenges/03)        | [solución](./src/challenge03.js) |
 | 4   | [--](https://adventjs.dev/challenges/04)        | [solución](./src/challenge04.js) |
