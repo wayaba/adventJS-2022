@@ -4,8 +4,7 @@ Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/
 
 ![Captura](https://user-images.githubusercontent.com/37515166/204515493-fb1ba60e-bbc0-4623-9f72-293eeac4a786.PNG)
 
-
-<img src="http://....jpg](https://user-images.githubusercontent.com/37515166/204555674-4ba8c5ac-a539-4e52-bac7-74475e80d15b.svg" width="50" height="50" />
+<img src="https://user-images.githubusercontent.com/37515166/204556732-51f4f61b-1372-4ee5-b0c3-4e629f94a770.png" width="50" height="50" />
 
 ## Retos :computer:
 
