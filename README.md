@@ -8,7 +8,7 @@ Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/
 
 | Día | Reto                                                                               | Código                       | Arte       |
 | --- | ---------------------------------------------------------------------------------- | ---------------------------- | ---------- |
-| 1   | [---](https://adventjs.dev/es/challenges/2022/1)                  | [solución](./src/challenge01.js) | <img src="https://user-images.githubusercontent.com/37515166/204556732-51f4f61b-1372-4ee5-b0c3-4e629f94a770.png" width="50" height="50" /> |
+| 1   | [¡Automatizando envolver regalos de navidad!](https://adventjs.dev/es/challenges/2022/1)                  | [solución](./src/challenge01.js) | <img src="https://user-images.githubusercontent.com/37515166/204556732-51f4f61b-1372-4ee5-b0c3-4e629f94a770.png" width="50" height="50" /> |
 | 2   | [----](https://adventjs.dev/challenges/02)         | [solución](./src/challenge02.js) | <img src="https://user-images.githubusercontent.com/37515166/204558432-bc26b385-7d28-4bf7-8db6-82a9025b43fd.png" width="50" height="50" /> |
 | 3   | [----](https://adventjs.dev/challenges/03)        | [solución](./src/challenge03.js) |
 | 4   | [--](https://adventjs.dev/challenges/04)        | [solución](./src/challenge04.js) |
