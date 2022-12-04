@@ -1,4 +1,4 @@
-# adventJS-2022
+# adventJS-2022 :sparkles:
 
 Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/)
 
@@ -33,6 +33,14 @@ Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/
 | 23  | [---](https://adventjs.dev/challenges/23)                                                | [solución](./src/challenge23.js) |
 | 24  | [---](https://adventjs.dev/challenges/24)                                                | [solución](./src/challenge24.js) |
 | 25  | [---](https://adventjs.dev/challenges/25)                                                | [solución](./src/challenge25.js) |
+
+## Como ejecutar el código :running:
+
+```
+npm run challenge<numero_challenge>
+```
+
+Donde numero_challenge arranca de 01 hasta 25
 
 ## Gracias [midudev](https://twitter.com/midudev) :heart:
 
