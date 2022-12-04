@@ -6,12 +6,12 @@ Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/
 
 ## Retos :computer:
 
-| Día | Reto                                                                                     | Código                           | Arte                                                                                                                                       | Puntos |
-| --- | ---------------------------------------------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------ | --- |
+| Día | Reto                                                                                     | Código                           | Arte    | Puntos |
+| --- | ---------------------------------------------------------------------------------------- | -------------------------------- | ------- | ------ |
 | 1   | [¡Automatizando envolver regalos de navidad!](https://adventjs.dev/es/challenges/2022/1) | [solución](./src/challenge01.js) | <img src="https://user-images.githubusercontent.com/37515166/204556732-51f4f61b-1372-4ee5-b0c3-4e629f94a770.png" width="50" height="50" /> | 131    |
 | 2   | [Nadie quiere hacer horas extra](https://adventjs.dev/challenges/02)                     | [solución](./src/challenge02.js) | <img src="https://user-images.githubusercontent.com/37515166/204558432-bc26b385-7d28-4bf7-8db6-82a9025b43fd.png" width="50" height="50" /> | 121    |
 | 3   | [¿Cuántas cajas de regalos puede llevar Papá Noel?](https://adventjs.dev/challenges/03)  | [solución](./src/challenge03.js) | <img src="https://user-images.githubusercontent.com/37515166/205497830-47b7aac5-0ab0-4fa5-8506-f7ec27f786e3.png" width="50" height="50" /> | 142    |
-| 4   | [Una caja dentro de otra caja y otra...](https://adventjs.dev/challenges/04)             | [solución](./src/challenge04.js) | <img src="https://user-images.githubusercontent.com/37515166/205497830-47b7aac5-0ab0-4fa5-8506-f7ec27f786e3.png" width="50" height="50" /> | 142    |     |
+| 4   | [Una caja dentro de otra caja y otra...](https://adventjs.dev/challenges/04)             | [solución](./src/challenge04.js) | <img src="https://user-images.githubusercontent.com/37515166/205520349-367dc55c-bc92-46df-bacb-6530330b2030.png" width="50" height="50" /> | 151    |
 | 5   | [---](https://adventjs.dev/challenges/05)                                                | [solución](./src/challenge05.js) |
 | 6   | [---](https://adventjs.dev/challenges/06)                                                | [solución](./src/challenge06.js) |
 | 7   | [---](https://adventjs.dev/challenges/07)                                                | [solución](./src/challenge07.js) |
