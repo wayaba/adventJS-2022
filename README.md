@@ -3,7 +3,6 @@
 Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/)
 
 ![Captura](https://user-images.githubusercontent.com/37515166/204515493-fb1ba60e-bbc0-4623-9f72-293eeac4a786.PNG)
-![3](https://user-images.githubusercontent.com/37515166/205497830-47b7aac5-0ab0-4fa5-8506-f7ec27f786e3.png)
 
 ## Retos :computer:
 
