@@ -2,7 +2,7 @@
 
 Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/)
 
-![Captura](https://user-images.githubusercontent.com/37515166/204515493-fb1ba60e-bbc0-4623-9f72-293eeac4a786.PNG)
+<img src="https://user-images.githubusercontent.com/37515166/205499330-15476acf-06ee-4651-acd2-5108c32d0b3c.PNG" height="200" />
 
 ## Retos :computer:
 
