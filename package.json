@@ -8,7 +8,8 @@
     "challenge02": "node src/challenge02",
     "challenge03": "node src/challenge03",
     "challenge04": "node src/challenge04",
-    "challenge05": "node src/challenge05"
+    "challenge05": "node src/challenge05",
+    "start": "node"
   },
   "repository": {
     "type": "git",
