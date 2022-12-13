@@ -17,7 +17,7 @@ Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/
 | 7   | [Creando adornos navideños](https://adventjs.dev/challenges/07)                          | [solución](./src/challenge07.js) | <img src="https://user-images.githubusercontent.com/37515166/207040748-48ccd708-c38b-4c1d-89ed-bba18aa03279.png" width="50" height="50" /> | 200    |
 | 8   | [¡Necesitamos un mecánico!](https://adventjs.dev/challenges/08)                          | [solución](./src/challenge08.js) | <img src="https://user-images.githubusercontent.com/37515166/207040844-ac582294-9318-447e-b882-44f69f247bdc.png" width="50" height="50" /> | 160    |
 | 9   | [Las locas luces de Navidad](https://adventjs.dev/challenges/09)                         | [solución](./src/challenge09.js) | <img src="https://user-images.githubusercontent.com/37515166/207373059-e8feaa9c-3e90-4b81-8319-b41ef1c5f819.png" width="50" height="50" /> | 10     |
-| 10  | [---](https://adventjs.dev/challenges/10)                                                | [solución](./src/challenge10.js) |
+| 10  | [El salto del trineo de Papá Noel](https://adventjs.dev/challenges/10)                   | [solución](./src/challenge10.js) | <img src="https://user-images.githubusercontent.com/37515166/207373059-e8feaa9c-3e90-4b81-8319-b41ef1c5f819.png" width="50" height="50" /> | 60     |
 | 11  | [---](https://adventjs.dev/challenges/11)                                                | [solución](./src/challenge11.js) |
 | 12  | [---](https://adventjs.dev/challenges/12)                                                | [solución](./src/challenge12.js) |
 | 13  | [---](https://adventjs.dev/challenges/13)                                                | [solución](./src/challenge13.js) |
