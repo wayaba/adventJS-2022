@@ -1,7 +1,6 @@
 # adventJS-2022 :santa: :christmas_tree: :bell:
 
 Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/)
-![9](https://user-images.githubusercontent.com/37515166/207373059-e8feaa9c-3e90-4b81-8319-b41ef1c5f819.png)
 
 <img src="https://user-images.githubusercontent.com/37515166/205520596-3e0a1d76-85d0-43a2-9708-5c5a7b6687b6.png" height="200" />
 
