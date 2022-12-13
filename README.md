@@ -1,6 +1,7 @@
 # adventJS-2022 :santa: :christmas_tree: :bell:
 
 Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/)
+![9](https://user-images.githubusercontent.com/37515166/207373059-e8feaa9c-3e90-4b81-8319-b41ef1c5f819.png)
 
 <img src="https://user-images.githubusercontent.com/37515166/205520596-3e0a1d76-85d0-43a2-9708-5c5a7b6687b6.png" height="200" />
 
@@ -16,7 +17,7 @@ Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/
 | 6   | [Creando adornos navideños](https://adventjs.dev/challenges/06)                          | [solución](./src/challenge06.js) | <img src="https://user-images.githubusercontent.com/37515166/206009115-021b699c-a11b-462a-87eb-db9f2317e2d8.png" width="50" height="50" /> | 160    |
 | 7   | [Creando adornos navideños](https://adventjs.dev/challenges/07)                          | [solución](./src/challenge07.js) | <img src="https://user-images.githubusercontent.com/37515166/207040748-48ccd708-c38b-4c1d-89ed-bba18aa03279.png" width="50" height="50" /> | 200    |
 | 8   | [¡Necesitamos un mecánico!](https://adventjs.dev/challenges/08)                          | [solución](./src/challenge08.js) | <img src="https://user-images.githubusercontent.com/37515166/207040844-ac582294-9318-447e-b882-44f69f247bdc.png" width="50" height="50" /> | 160    |
-| 9   | [Las locas luces de Navidad](https://adventjs.dev/challenges/09)                         | [solución](./src/challenge09.js) | <img src="https://user-images.githubusercontent.com/37515166/207040844-ac582294-9318-447e-b882-44f69f247bdc.png" width="50" height="50" /> | 10     |
+| 9   | [Las locas luces de Navidad](https://adventjs.dev/challenges/09)                         | [solución](./src/challenge09.js) | <img src="https://user-images.githubusercontent.com/37515166/207373059-e8feaa9c-3e90-4b81-8319-b41ef1c5f819.png" width="50" height="50" /> | 10     |
 | 10  | [---](https://adventjs.dev/challenges/10)                                                | [solución](./src/challenge10.js) |
 | 11  | [---](https://adventjs.dev/challenges/11)                                                | [solución](./src/challenge11.js) |
 | 12  | [---](https://adventjs.dev/challenges/12)                                                | [solución](./src/challenge12.js) |
