@@ -17,22 +17,8 @@ Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/
 | 7   | [Creando adornos navideños](https://adventjs.dev/challenges/07)                          | [solución](./src/challenge07.js) | <img src="https://user-images.githubusercontent.com/37515166/207040748-48ccd708-c38b-4c1d-89ed-bba18aa03279.png" width="50" height="50" /> | 200    |
 | 8   | [¡Necesitamos un mecánico!](https://adventjs.dev/challenges/08)                          | [solución](./src/challenge08.js) | <img src="https://user-images.githubusercontent.com/37515166/207040844-ac582294-9318-447e-b882-44f69f247bdc.png" width="50" height="50" /> | 160    |
 | 9   | [Las locas luces de Navidad](https://adventjs.dev/challenges/09)                         | [solución](./src/challenge09.js) | <img src="https://user-images.githubusercontent.com/37515166/207373059-e8feaa9c-3e90-4b81-8319-b41ef1c5f819.png" width="50" height="50" /> | 10     |
-| 10  | [El salto del trineo de Papá Noel](https://adventjs.dev/challenges/10)                   | [solución](./src/challenge10.js) | <img src="https://user-images.githubusercontent.com/37515166/207373059-e8feaa9c-3e90-4b81-8319-b41ef1c5f819.png" width="50" height="50" /> | 60     |
-| 11  | [---](https://adventjs.dev/challenges/11)                                                | [solución](./src/challenge11.js) |
-| 12  | [---](https://adventjs.dev/challenges/12)                                                | [solución](./src/challenge12.js) |
-| 13  | [---](https://adventjs.dev/challenges/13)                                                | [solución](./src/challenge13.js) |
-| 14  | [---](https://adventjs.dev/challenges/14)                                                | [solución](./src/challenge14.js) |
-| 15  | [---](https://adventjs.dev/challenges/15)                                                | [solución](./src/challenge15.js) |
-| 16  | [---](https://adventjs.dev/challenges/16)                                                | [solución](./src/challenge16.js) |
-| 17  | [---](https://adventjs.dev/challenges/17)                                                | [solución](./src/challenge17.js) |
-| 18  | [---](https://adventjs.dev/challenges/18)                                                | [solución](./src/challenge18.js) |
-| 19  | [---](https://adventjs.dev/challenges/19)                                                | [solución](./src/challenge19.js) |
-| 20  | [---](https://adventjs.dev/challenges/20)                                                | [solución](./src/challenge20.js) |
-| 21  | [---](https://adventjs.dev/challenges/21)                                                | [solución](./src/challenge21.js) |
-| 22  | [---](https://adventjs.dev/challenges/22)                                                | [solución](./src/challenge22.js) |
-| 23  | [---](https://adventjs.dev/challenges/23)                                                | [solución](./src/challenge23.js) |
-| 24  | [---](https://adventjs.dev/challenges/24)                                                | [solución](./src/challenge24.js) |
-| 25  | [---](https://adventjs.dev/challenges/25)                                                | [solución](./src/challenge25.js) |
+| 10  | [El salto del trineo de Papá Noel](https://adventjs.dev/challenges/10)                   | [solución](./src/challenge10.js) | <img src="https://user-images.githubusercontent.com/37515166/207376938-97e30007-675b-4407-9fe0-ab80582fbe36.png" width="50" height="50" /> | 60     |
+
 
 ## Como ejecutar el código :running:
 
