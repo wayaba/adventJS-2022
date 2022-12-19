@@ -18,7 +18,8 @@ Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/
 | 8   | [¡Necesitamos un mecánico!](https://adventjs.dev/challenges/08)                          | [solución](./src/challenge08.js) | <img src="https://user-images.githubusercontent.com/37515166/207040844-ac582294-9318-447e-b882-44f69f247bdc.png" width="50" height="50" /> | 160    |
 | 9   | [Las locas luces de Navidad](https://adventjs.dev/challenges/09)                         | [solución](./src/challenge09.js) | <img src="https://user-images.githubusercontent.com/37515166/207373059-e8feaa9c-3e90-4b81-8319-b41ef1c5f819.png" width="50" height="50" /> | 10     |
 | 10  | [El salto del trineo de Papá Noel](https://adventjs.dev/challenges/10)                   | [solución](./src/challenge10.js) | <img src="https://user-images.githubusercontent.com/37515166/207376938-97e30007-675b-4407-9fe0-ab80582fbe36.png" width="50" height="50" /> | 60     |
-
+| 12  | [Trineos eléctricos, ¡guau!](https://adventjs.dev/challenges/12)                         | [solución](./src/challenge12.js) | <img src="https://user-images.githubusercontent.com/37515166/207376938-97e30007-675b-4407-9fe0-ab80582fbe36.png" width="50" height="50" /> | 60     |
+| 13  | [Backup de los archivos de Papá Noel](https://adventjs.dev/challenges/13)                | [solución](./src/challenge13.js) | <img src="https://user-images.githubusercontent.com/37515166/207376938-97e30007-675b-4407-9fe0-ab80582fbe36.png" width="50" height="50" /> | 60     |
 
 ## Como ejecutar el código :running:
 
