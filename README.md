@@ -21,6 +21,9 @@ Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/
 | 11  | [Papá Noel es Scrum Masterl](https://adventjs.dev/challenges/11)                         | [solución](./src/challenge11.js) | <img src="https://user-images.githubusercontent.com/37515166/208698645-e464fe1c-b18a-4968-90d6-d1796e59bdcf.png" width="50" height="50" /> | 220    |
 | 12  | [Trineos eléctricos, ¡guau!](https://adventjs.dev/challenges/12)                         | [solución](./src/challenge12.js) | <img src="https://user-images.githubusercontent.com/37515166/208427044-4b878161-e5b4-4944-83fe-8eda9873854e.png" width="50" height="50" /> | 260    |
 | 13  | [Backup de los archivos de Papá Noel](https://adventjs.dev/challenges/13)                | [solución](./src/challenge13.js) | <img src="https://user-images.githubusercontent.com/37515166/208427050-9fb4e3cd-9aa0-4bab-9dc6-b1fd5ab8c0f9.png" width="50" height="50" /> | 300    |
+| 14  | [El mejor camino](https://adventjs.dev/challenges/14)                                    | [solución](./src/challenge14.js) | <img src="https://user-images.githubusercontent.com/37515166/208427050-9fb4e3cd-9aa0-4bab-9dc6-b1fd5ab8c0f9.png" width="50" height="50" /> | 300    |
+| 15  | [Decorando el árbol de Navidad](https://adventjs.dev/challenges/15)                      | [solución](./src/challenge15.js) | <img src="https://user-images.githubusercontent.com/37515166/208427050-9fb4e3cd-9aa0-4bab-9dc6-b1fd5ab8c0f9.png" width="50" height="50" /> | 40     |
+| 16  | [Arreglando las cartas de Papá Noel](https://adventjs.dev/challenges/16)                 | [solución](./src/challenge16.js) | <img src="https://user-images.githubusercontent.com/37515166/208427050-9fb4e3cd-9aa0-4bab-9dc6-b1fd5ab8c0f9.png" width="50" height="50" /> | 200    |
 
 ## Como ejecutar el código :running:
 
