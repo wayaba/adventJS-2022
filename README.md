@@ -25,8 +25,8 @@ Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/
 | 15  | [Decorando el árbol de Navidad](https://adventjs.dev/challenges/15)                      | [solución](./src/challenge15.js) | <img src="https://user-images.githubusercontent.com/37515166/209669454-2a03c672-76ea-4a23-89c7-a255d54b3360.png" width="50" height="50" /> | 40     |
 | 16  | [Arreglando las cartas de Papá Noel](https://adventjs.dev/challenges/16)                 | [solución](./src/challenge16.js) | <img src="https://user-images.githubusercontent.com/37515166/209669456-79a8f93c-662a-4aa9-b5f8-0f061c0fb65f.png" width="50" height="50" /> | 200    |
 | 17  | [Llevando los regalos en sacos](https://adventjs.dev/challenges/17)                      | [solución](./src/challenge16.js) | <img src="https://user-images.githubusercontent.com/37515166/209669456-79a8f93c-662a-4aa9-b5f8-0f061c0fb65f.png" width="50" height="50" /> | 80     |
-| 18  | [¡Nos quedamos sin tinta!](https://adventjs.dev/challenges/18)                           | [solución](./src/challenge18.js) | <img src="https://user-images.githubusercontent.com/37515166/209669456-79a8f93c-662a-4aa9-b5f8-0f061c0fb65f.png" width="50" height="50" /> | 200    |
-| 19  | [Ordenando los regalos](https://adventjs.dev/challenges/19)                              | [solución](./src/challenge19.js) | <img src="https://user-images.githubusercontent.com/37515166/209669456-79a8f93c-662a-4aa9-b5f8-0f061c0fb65f.png" width="50" height="50" /> | 300    |
+| 18  | [¡Nos quedamos sin tinta!](https://adventjs.dev/challenges/18)                           | [solución](./src/challenge18.js) | <img src="https://user-images.githubusercontent.com/37515166/223822509-753f2ea3-3a4d-4a59-9f4c-11901b3f9b01.png" width="50" height="50" /> | 200    |
+| 19  | [Ordenando los regalos](https://adventjs.dev/challenges/19)                              | [solución](./src/challenge19.js) | <img src="https://user-images.githubusercontent.com/37515166/223822547-5b1406dc-31c8-4ad0-864c-e19d8a203747.png" width="50" height="50" /> | 300    |
 
 ## Como ejecutar el código :running:
 
