@@ -20,6 +20,9 @@
     "challenge14": "node src/challenge14",
     "challenge15": "node src/challenge15",
     "challenge16": "node src/challenge16",
+    "challenge17": "node src/challenge17",
+    "challenge18": "node src/challenge18",
+    "challenge19": "node src/challenge19",
     "start": "node"
   },
   "repository": {

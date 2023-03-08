@@ -24,6 +24,9 @@ Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/
 | 14  | [El mejor camino](https://adventjs.dev/challenges/14)                                    | [solución](./src/challenge14.js) | <img src="https://user-images.githubusercontent.com/37515166/209669451-62f2f802-cd17-4557-a895-4c7f5471d50f.png" width="50" height="50" /> | 300    |
 | 15  | [Decorando el árbol de Navidad](https://adventjs.dev/challenges/15)                      | [solución](./src/challenge15.js) | <img src="https://user-images.githubusercontent.com/37515166/209669454-2a03c672-76ea-4a23-89c7-a255d54b3360.png" width="50" height="50" /> | 40     |
 | 16  | [Arreglando las cartas de Papá Noel](https://adventjs.dev/challenges/16)                 | [solución](./src/challenge16.js) | <img src="https://user-images.githubusercontent.com/37515166/209669456-79a8f93c-662a-4aa9-b5f8-0f061c0fb65f.png" width="50" height="50" /> | 200    |
+| 17  | [Llevando los regalos en sacos](https://adventjs.dev/challenges/17)                      | [solución](./src/challenge16.js) | <img src="https://user-images.githubusercontent.com/37515166/209669456-79a8f93c-662a-4aa9-b5f8-0f061c0fb65f.png" width="50" height="50" /> | 80     |
+| 18  | [¡Nos quedamos sin tinta!](https://adventjs.dev/challenges/18)                           | [solución](./src/challenge18.js) | <img src="https://user-images.githubusercontent.com/37515166/209669456-79a8f93c-662a-4aa9-b5f8-0f061c0fb65f.png" width="50" height="50" /> | 200    |
+| 19  | [Ordenando los regalos](https://adventjs.dev/challenges/19)                              | [solución](./src/challenge19.js) | <img src="https://user-images.githubusercontent.com/37515166/209669456-79a8f93c-662a-4aa9-b5f8-0f061c0fb65f.png" width="50" height="50" /> | 300    |
 
 ## Como ejecutar el código :running:
 
