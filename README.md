@@ -27,6 +27,9 @@ Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/
 | 17  | [Llevando los regalos en sacos](https://adventjs.dev/challenges/17)                      | [solución](./src/challenge16.js) | <img src="https://user-images.githubusercontent.com/37515166/223823193-4ca69e43-e18f-4fcd-9fbe-8f222a829665.png" width="50" height="50" /> | 80     |
 | 18  | [¡Nos quedamos sin tinta!](https://adventjs.dev/challenges/18)                           | [solución](./src/challenge18.js) | <img src="https://user-images.githubusercontent.com/37515166/223822509-753f2ea3-3a4d-4a59-9f4c-11901b3f9b01.png" width="50" height="50" /> | 200    |
 | 19  | [Ordenando los regalos](https://adventjs.dev/challenges/19)                              | [solución](./src/challenge19.js) | <img src="https://user-images.githubusercontent.com/37515166/223822547-5b1406dc-31c8-4ad0-864c-e19d8a203747.png" width="50" height="50" /> | 300    |
+| 20  | [Más viajes retadores](https://adventjs.dev/challenges/20)                              | [solución](./src/challenge20.js) | <img src="https://user-images.githubusercontent.com/37515166/223822547-5b1406dc-31c8-4ad0-864c-e19d8a203747.png" width="50" height="50" /> | 10    |
+| 21  | [Creando la tabla de regalos](https://adventjs.dev/challenges/21)                              | [solución](./src/challenge21.js) | <img src="https://user-images.githubusercontent.com/37515166/223822547-5b1406dc-31c8-4ad0-864c-e19d8a203747.png" width="50" height="50" /> | 60    |
+| 22  | [La iluminación en sintonía](https://adventjs.dev/challenges/22)                              | [solución](./src/challenge22.js) | <img src="https://user-images.githubusercontent.com/37515166/223822547-5b1406dc-31c8-4ad0-864c-e19d8a203747.png" width="50" height="50" /> | XX    |
 
 ## Como ejecutar el código :running:
 
