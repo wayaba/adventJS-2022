@@ -38,7 +38,7 @@ Mis soluciones para los [25 días de retos con JavaScript](https://adventjs.dev/
 npm run challenge<numero_challenge>
 ```
 
-Donde numero_challenge arranca de 01 hasta 25
+**NOTA: numero_challenge arranca de 01 hasta 24**
 
 ## Gracias [midudev](https://twitter.com/midudev) :heart:
 
