@@ -1,23 +1,17 @@
 //https://adventjs.dev/es/challenges/2022/22
 
 function checkStepNumbers(systemNames, stepNumbers) {
-  const namesAppearences = {}
-
-  systemNames.forEach((name, index) => {
-    if (namesAppearences[name]) {
-      namesAppearences[name].push(index)
-    } else {
-      namesAppearences[name] = [index]
-    }
-  })
+  const namesAppearences = systemNames.reduce((acc, name, index) => {
+    acc[name] ? acc[name].push(index) : (acc[name] = [index])
+    return acc
+  }, {})
 
   return Object.values(namesAppearences).every((possitionArray) => {
-    let lastStepNumber = 0
-    for (const index of possitionArray) {
-      if (lastStepNumber >= stepNumbers[index]) return false
-      lastStepNumber = stepNumbers[index]
-    }
-    return true
+    return possitionArray.reduce((acc, currentIndex, index, array) => {
+      if (stepNumbers[array[index + 1]])
+        return acc && stepNumbers[currentIndex] < stepNumbers[array[index + 1]]
+      return acc
+    }, true)
   })
 }
 
