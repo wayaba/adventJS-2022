@@ -1,4 +1,4 @@
-# adventJS-2022 :santa: :christmas_tree: :bell:
+# AdventJS-2022 :santa: :christmas_tree: :bell:
 
 Mis soluciones para los [24 días de retos con JavaScript](https://adventjs.dev/)
 
